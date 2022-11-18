@@ -1,0 +1,22 @@
+html,body{
+    font-size: 2v;
+    
+
+}
+
+button{
+    background-color: green;
+    color: white;
+    border-radius: 20px;
+    width: 125px;
+
+
+}
+img{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
+div{
+    text-align: justify;
+}
